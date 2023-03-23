@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  List<int> a = [20, 30, 45, 85, 40, 9, 8, 5, 11];
+  List<int> a = [20, 30, 45, 85, 40, 11];
   int num = 45;
   int l = 0;
   var r = a.length - 1;
@@ -16,6 +16,7 @@ void main(List<String> args) {
       l = mid + 1;
     }
   }
+  print("aravana");
 }
 
 
