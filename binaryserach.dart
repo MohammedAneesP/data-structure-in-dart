@@ -22,9 +22,7 @@ void main(List<String> args) {
   print("aravana payasam");
   print("valsalyam");
 
-  print("suratippa");
-  print("marottichal");
-  print("irinjalakuda");
+ 
 
 }
 
