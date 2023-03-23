@@ -16,6 +16,8 @@ void main(List<String> args) {
       l = mid + 1;
     }
   }
+  print("upanyasam");
+  print("marthandan");
   print("aravana payasam");
 }
 
