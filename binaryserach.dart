@@ -16,10 +16,16 @@ void main(List<String> args) {
       l = mid + 1;
     }
   }
+
   print("upanyasam");
   print("marthandan");
   print("aravana payasam");
   print("valsalyam");
+
+  print("suratippa");
+  print("marottichal");
+  print("irinjalakuda");
+
 }
 
 
