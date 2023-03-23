@@ -82,7 +82,7 @@ inInOrder(BstTree? node) {
 }
 
 void main(List<String> args) {
-  List<dynamic> a = [30, 46, 44, 21, 40, 14];
+  List<dynamic> a = [30, 47, 44, 21, 40, 14];
   for (var i = 0; i < a.length; i++) {
     insert(a[i]);
   }
