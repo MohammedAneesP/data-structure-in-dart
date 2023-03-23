@@ -56,7 +56,7 @@ void main(List<String> args) {
   addNode(78);
   addNode(21);
   addNode(2);
-  addNode(99);
+  addNode(93);
 
   revDisplay();
   print("--------------------");
