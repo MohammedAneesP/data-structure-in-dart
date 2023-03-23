@@ -21,7 +21,7 @@ void addBack(List<int>array)
  newArr.remove(h);
 }
 void main(List<String> args) {
-  List<int> a = [15, 8, 4, 5, 96, 31];
+  List<int> a = [15, 8, 4, 25, 96, 31];
   delete(a);
   delete(a);
   print(newArr);
