@@ -31,5 +31,5 @@ void fibnocci(int number) {
 }
 
 void main(List<String> args) {
-  fibnocci(5);
+  fibnocci(6);
 }
