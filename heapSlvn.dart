@@ -63,7 +63,7 @@ class MinHeap {
 }
 
 void main(List<String> args) {
-  List<int> array = [15,5,6,8,2,1,23];
+  List<int> array = [15,5,6,8,2,1,3];
  
  
   print(array);
