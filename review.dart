@@ -24,7 +24,7 @@ void maxHeapBuild(List<int>a){
 }
 
 void main(List<String> args) {
-  List<int>a = [20,5,3,6,9,56,41];
+  List<int>a = [20,5,3,6,56,41];
   maxHeapBuild(a);
   print(a);
 }
