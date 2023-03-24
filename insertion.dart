@@ -13,4 +13,6 @@ void main(List<String> args) {
     a[j + 1] = temp;
   }
   print(a);
+
+print("object");
 }
